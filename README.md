@@ -30,3 +30,5 @@ Note your problems or errors here.  Google any error you may come across, and no
 
 
 ## Final Report
+
+## I kept getting a failed error "A fatal error occurred: Failed to connect to ESP32: No serial data received."
